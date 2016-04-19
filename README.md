@@ -1,5 +1,5 @@
 # ProtractDemo
-对应我博客中关于搭建Protractor的文章所使用的demo。博客地址：http://www.cnblogs.com/sallyzhang/tag/Protractor/
+对应我博客中关于搭建Protractor的文章所使用的demo。博客地址：www.cnblogs.com/sallyzhang/p/4980729.html
 
 Setup Steps:
 1. Install nodejs;
